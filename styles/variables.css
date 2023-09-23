@@ -1,0 +1,22 @@
+:root {
+    /* backgrounds */
+    --background: #fafafa;
+    --search-background: #f2f2f2;
+
+    /* color scheme */
+    --primary-color: #1e2640;
+    --secondary-color: #146eb4;
+    --secondary-color-dark: #0e4f82;
+
+    /* text */
+    --text-primary: #1a181e;
+    --text-secondary: #ffffff;
+    --text-tertiary: #808080;
+
+    /* status */
+    --successful: #17b31b;
+    --processing: #999999; 
+
+    /* font */
+    --accent: "Nunito Sans", Arial, sans-serif;
+}

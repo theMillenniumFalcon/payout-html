@@ -1,0 +1,42 @@
+@import url("variables.css");
+
+* {
+    box-sizing: border-box;
+    background-color: var(--background);
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: var(--accent);
+}
+
+h1 {
+    font-size: 1.5rem;
+    color: var(--text-primary);
+}
+
+underlineText  {
+    font-size: 1rem;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+}
+
+div.transactionsInfoBox1 {
+    background-color: var(--secondary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--text-secondary);
+}
+
+div.mainContainer {
+    background-color: red;
+}
